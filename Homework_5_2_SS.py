@@ -1,3 +1,4 @@
+
 while True:
    number1 = int(input ("Please enter a first number from the keyboard: "))
    number2 = int(input ("Please enter a second number from the keyboard: "))
