@@ -1,6 +1,5 @@
 import string
 
-
 user_text = str(input ("Please enter text: "))
 print (user_text, " -> ", end=" ")
 user_text = user_text.title()

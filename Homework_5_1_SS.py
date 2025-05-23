@@ -20,7 +20,6 @@ else:
     else:
         print (True)
 
-
 # test_data = ["_", "__", "___", "x", "get_value", "get value", "get!value", "some_super_puper_value", "Get_value", "get_Value", "getValue", "3m", "m3", "assert", "assert_exception"]
 #
 # for user_text in test_data:
